@@ -1,5 +1,11 @@
 {
   "users": [
-    { "id": 1, "firstName": "Dev", "lastName": "Testperson","email": "royskaylink@gmail.com", "userProvisioning": "leave" },
+    {
+      "id": 1,
+      "firstName": "Dev",
+      "lastName": "Testperson",
+      "email": "royskaylink@gmail.com",
+      "userProvisioning": "leave"
+    }
   ]
 }
