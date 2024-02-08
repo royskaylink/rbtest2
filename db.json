@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstName": "Dev",
+      "lastName": "Testperson",
+      "email": "royskaylink@gmail.com",
+      "userProvisioning": "leave"
+    }
+	{
+      "id": 2,
+      "firstName": "Test",
+      "lastName": "User",
+      "email": "testuser@testcity.com",
+      "userProvisioning": "join"
+    }
+  ]
+}
